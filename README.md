@@ -19,7 +19,8 @@ PROCESS PLANNING AND PLANT LAYOUT FOR TRANSMISSION SHAFT
 17. Plant Layout The plant layout is designed to ensure smooth material flow, minimum handling time, and operator safety. The layout includes designated areas for raw material storage, CNC machining, NC machining, conveyors, inspection, and finished goods storage. The plant layout design is prepared using DELMIA Plant Layout Design and is shown in the figure below. The uploaded layout image represents the top-view arrangement of machines, safety fencing, conveyor system, storage racks, and inspection area.
 
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1f28006d-562e-4e26-9c32-8c2755ce8898" />
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/8c470ffb-9734-403f-9421-1521425d979c" />
+
 
 
 18. Conclusion The CNC-based process planning and well-organized plant layout ensure efficient production of transmission shafts with consistent quality, reduced cycle time, and improved safety.
