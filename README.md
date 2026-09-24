@@ -27,5 +27,3 @@ conclusion The 3D factory layout created using DELMIA Plant Layout Design provid
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/8c470ffb-9734-403f-9421-1521425d979c" />
 
 
-
-18. Conclusion The CNC-based process planning and well-organized plant layout ensure efficient production of transmission shafts with consistent quality, reduced cycle time, and improved safety.
